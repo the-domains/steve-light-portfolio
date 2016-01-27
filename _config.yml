@@ -1,7 +1,7 @@
 name: Steve Light Portfolio
 favicon: null
-layout_spectrum: 0.7832218648400158
-typography_spectrum: 0.7688802578486502
+layout_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#4285f4'
+    - '#ea4335'
+    - '#fbbc05'
+    - '#0000ff'
+    - '#00ffff'
   brandStrength: 0.8734755618497729
-  lightness: 0.20699850632809103
+  lightness: 0.5
   saturation: 0.4891154842916876
   rhythmicContrast: 0.47748785465955734
 purpose: []
