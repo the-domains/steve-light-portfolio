@@ -17,7 +17,7 @@ keywords:
   - months
   - podcast
 description: 'The Born Happy gang of experts, best-selling authors, teachers and coaches know everything there is to know about how to find happiness.'
-datePublished: '2016-01-27T17:23:42.248Z'
+datePublished: '2016-01-27T17:23:42.268Z'
 dateModified: '2016-01-27T17:23:34.546Z'
 author: []
 related: []
