@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://rubywaxleadership.co.uk'
   name: Rubywaxleadership
-  favicon: null
   domain: rubywaxleadership.co.uk
+  url: 'http://rubywaxleadership.co.uk'
+  favicon: null
 keywords:
   - ruby
   - humour
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://rubywaxleadership.co.uk/'
 title: Ruby Wax - Leadership Communication Specialist
-datePublished: '2016-01-27T12:36:38.410Z'
-dateModified: '2016-01-27T12:36:20.446Z'
+datePublished: '2016-01-27T12:36:53.688Z'
+dateModified: '2016-01-27T12:36:51.264Z'
 sourcePath: _posts/2016-01-27-ruby-wax-leadership-communication-specialist.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
