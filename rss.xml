@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Steve Light Portfolio]]></title>
         <description><![CDATA[Steve Light Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/steve-light-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 12:36:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 12:37:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/steve-light-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ruby Wax - Leadership Communication Specialist]]></title>
-            <description><![CDATA[<article><h1>Ruby Wax - Leadership Communication Specialist</h1><p>Ruby Wax has had a successful 25 year career in television. Through her directness, intuition and humour she quickly established a relationship with her guests during interviews, creating a climate of mutual appreciation and rapport. This incredibly useful skill can be taught to any leader who wants to motivate, inspire and improve communication within their organisation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/caa48a3ec5149a486846a334fdabe9dc2a9c38b0.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Ruby Wax - Leadership Communication Specialist</h1><p>Ruby Wax has had a successful 25 year career in television. Through her directness, intuition and humour she quickly established a relationship with her guests during interviews, creating a climate of mutual appreciation and rapport. This incredibly useful skill can be taught to any leader who wants to motivate, inspire and improve communication within their organisation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c936be105b1cadef6b3ed23f15c83583f656619.png"></article>]]></description>
             <link>http://rubywaxleadership.co.uk/</link>
             <guid isPermaLink="false">db029d6d-bcb3-4920-8157-04c580f76388</guid>
-            <pubDate>Wed, 27 Jan 2016 12:36:38 GMT</pubDate>
+            <pubDate>Wed, 27 Jan 2016 12:36:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
