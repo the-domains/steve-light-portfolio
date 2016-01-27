@@ -1,28 +1,40 @@
-name: Steve Light Portfolio
-favicon: null
-layout_spectrum: 0.8645
-typography_spectrum: 0.06504
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.8645
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 1
+  brandStrength: 1
+  rhythmicContrast: 1
   brandColors:
     - '#4285f4'
     - '#ea4335'
     - '#fbbc05'
     - '#0000ff'
     - '#00ffff'
-  brandStrength: 1
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
 purpose: []
+favicon: null
+name: Steve Light Portfolio
+typography_spectrum: 0.06504
