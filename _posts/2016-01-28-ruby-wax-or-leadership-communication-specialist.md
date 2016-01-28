@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://rubywaxleadership.co.uk/'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - ruby
   - humour
@@ -17,8 +17,8 @@ keywords:
   - mindfulness-based
   - heffner
 description: 'Ruby Wax has had a successful 25 year career in television. Through her directness, intuition and humour she quickly established a relationship with her guests during interviews, creating a climate of mutual appreciation and rapport. This incredibly useful skill can be taught to any leader who wants to motivate, inspire and improve communication within their organisation.'
-datePublished: '2016-01-28T09:03:09.916Z'
-dateModified: '2016-01-28T09:02:21.101Z'
+datePublished: '2016-01-28T09:03:25.146Z'
+dateModified: '2016-01-28T09:03:22.351Z'
 author: []
 related: []
 app_links: []
