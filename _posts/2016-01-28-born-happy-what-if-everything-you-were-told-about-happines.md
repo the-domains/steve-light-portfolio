@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.bornhappy.co/'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - months
   - podcast
 description: 'The Born Happy gang of experts, best-selling authors, teachers and coaches know everything there is to know about how to find happiness.'
-datePublished: '2016-01-28T09:10:51.118Z'
-dateModified: '2016-01-28T09:10:46.841Z'
+datePublished: '2016-01-28T09:13:51.297Z'
+dateModified: '2016-01-28T09:13:46.589Z'
 author: []
 related: []
 app_links: []
@@ -30,7 +31,6 @@ publisher:
   domain: www.bornhappy.co
   url: 'http://www.bornhappy.co'
   favicon: 'http://www.bornhappy.co/favicon.ico'
-url: born-happy-what-if-everything-you-were-told-about-happines/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
