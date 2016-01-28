@@ -17,7 +17,7 @@ keywords:
   - guaranteed
   - '011'
 description: "We are professional locksmiths who have been serving your local area for many years. We keep our costs low for our customers as the travelling time for our callouts are shorter. We are proud of our work and we're here to serve you 24/7, when you need us most, we'll be there to help."
-datePublished: '2016-01-28T09:52:54.690Z'
+datePublished: '2016-01-28T09:52:54.709Z'
 dateModified: '2016-01-28T09:52:50.391Z'
 author: []
 related: []
