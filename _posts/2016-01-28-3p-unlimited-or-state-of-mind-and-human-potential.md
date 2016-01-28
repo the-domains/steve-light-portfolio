@@ -17,7 +17,7 @@ keywords:
   - transformation
   - mentally
 description: 'Unleash your limitless potential and access the clarity of mind and creativity that resides within.   We offer impactful bespoke packages and deliver tailored transformational programmes for businesses, public and third sector organisations.'
-datePublished: '2016-01-28T09:05:36.938Z'
+datePublished: '2016-01-28T09:05:37.146Z'
 dateModified: '2016-01-28T09:05:27.437Z'
 author:
   - name: 3punlimited
