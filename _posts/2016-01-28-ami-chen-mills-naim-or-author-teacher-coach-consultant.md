@@ -17,7 +17,7 @@ keywords:
   - simple
   - deep
 description: 'Ami Chen Mills-Naim is a global speaker, coach, trainer and author of State of Mind in the Classroom: Thought, Consciousness and the Essential Curriculum for Healthy Learning, and The Spark Inside: A Special Book for Youth.  With her late father, the social scientist Dr. Roger Mills, she co-founded the non-profit Center for Sustainable Change, and served as its Executive Director and Education Director for a decade. She has been an international speaker on innate wellness and resiliency, and a trainer of the “Three Principles” for more than 17 years, as well as a “trainer of trainers.”'
-datePublished: '2016-01-28T08:39:25.679Z'
+datePublished: '2016-01-28T08:39:25.650Z'
 dateModified: '2016-01-28T08:39:21.739Z'
 author: []
 related: []
