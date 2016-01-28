@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://amichen.com'
-  name: Amichen
-  favicon: 'http://amichen.com/wp-content/uploads/2014/04/FAV.jpg'
-  domain: amichen.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://amichen.com/'
+inLanguage: en
+starred: false
 keywords:
   - harmony
   - chen
@@ -17,20 +16,23 @@ keywords:
   - life
   - simple
   - deep
-description: "This is the very simple love of our own 'being-ness' that we may remember from childhood, or in our quietest moments. It is both totally familiar, and totally extraordinary. Along with this deep love comes a deep intelligence, or wisdom, that naturally generates harmony in our seeing and life experience."
-inLanguage: en
+description: 'Ami Chen Mills-Naim is a global speaker, coach, trainer and author of State of Mind in the Classroom: Thought, Consciousness and the Essential Curriculum for Healthy Learning, and The Spark Inside: A Special Book for Youth.  With her late father, the social scientist Dr. Roger Mills, she co-founded the non-profit Center for Sustainable Change, and served as its Executive Director and Education Director for a decade. She has been an international speaker on innate wellness and resiliency, and a trainer of the “Three Principles” for more than 17 years, as well as a “trainer of trainers.”'
+datePublished: '2016-01-28T08:34:25.415Z'
+dateModified: '2016-01-28T08:34:24.857Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://amichen.com/'
 title: 'Ami Chen Mills-Naim | Author Teacher Coach Consultant'
-datePublished: '2016-01-28T08:30:24.978Z'
-dateModified: '2016-01-28T08:29:46.444Z'
 sourcePath: _posts/2016-01-28-ami-chen-mills-naim-or-author-teacher-coach-consultant.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Amichen
+  domain: amichen.com
+  url: 'http://amichen.com'
+  favicon: 'http://amichen.com/wp-content/uploads/2014/04/FAV.jpg'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Ami Chen Mills-Naim &amp;vert; Author Teacher Coach Consultant</h1><p>This is the very simple love of our own 'being-ness' that we may remember from childhood&amp;comma; or in our quietest moments&amp;period; It is both totally familiar&amp;comma; and totally extraordinary&amp;period; Along with this deep love comes a deep intelligence&amp;comma; or wisdom&amp;comma; that naturally generates harmony in our seeing and life experience&amp;period;</p><img src="http://amichen.com/wp-content/uploads/2014/05/Ami-Quote.jpg" /></article>
+<article style=""><h1>Ami Chen Mills-Naim | Author Teacher Coach Consultant</h1><p>Ami Chen Mills-Naim is a global speaker, coach, trainer and author of State of Mind in the Classroom: Thought, Consciousness and the Essential Curriculum for Healthy Learning, and The Spark Inside: A Special Book for Youth.  With her late father, the social scientist Dr. Roger Mills, she co-founded the non-profit Center for Sustainable Change, and served as its Executive Director and Education Director for a decade. She has been an international speaker on innate wellness and resiliency, and a trainer of the “Three Principles” for more than 17 years, as well as a “trainer of trainers.”</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c70e0b73d5ffd08cc62563845731f77ba5dd55b6.jpg" /></article>
