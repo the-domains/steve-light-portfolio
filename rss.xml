@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Steve Light Portfolio]]></title>
         <description><![CDATA[Steve Light Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/steve-light-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 08:14:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 08:23:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/steve-light-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[AMI CHEN: AUTHOR | TEACHER | COACH | CONSULTANT]]></title>
-            <description><![CDATA[<article><h1>AMI CHEN: AUTHOR | TEACHER | COACH | CONSULTANT</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86699711-7149-4953-a3f4-6e8ffc264aaa.png"></article>]]></description>
-            <link>undefined76ce292d-bd22-4951-b7cf-829b4196d769/index.html</link>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fec6e01a-169a-4278-9b8f-a015504cf663.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/steve-light-portfolio/76ce292d-bd22-4951-b7cf-829b4196d769/index.html</link>
             <guid isPermaLink="false">76ce292d-bd22-4951-b7cf-829b4196d769</guid>
-            <pubDate>Thu, 28 Jan 2016 08:13:49 GMT</pubDate>
+            <pubDate>Thu, 28 Jan 2016 08:22:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
