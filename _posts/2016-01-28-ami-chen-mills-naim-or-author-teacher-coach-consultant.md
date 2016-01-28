@@ -17,8 +17,8 @@ keywords:
   - simple
   - deep
 description: 'Ami Chen Mills-Naim is a global speaker, coach, trainer and author of State of Mind in the Classroom: Thought, Consciousness and the Essential Curriculum for Healthy Learning, and The Spark Inside: A Special Book for Youth.  With her late father, the social scientist Dr. Roger Mills, she co-founded the non-profit Center for Sustainable Change, and served as its Executive Director and Education Director for a decade. She has been an international speaker on innate wellness and resiliency, and a trainer of the “Three Principles” for more than 17 years, as well as a “trainer of trainers.”'
-datePublished: '2016-01-28T08:37:09.962Z'
-dateModified: '2016-01-28T08:37:05.625Z'
+datePublished: '2016-01-28T08:39:25.738Z'
+dateModified: '2016-01-28T08:39:21.739Z'
 author: []
 related: []
 app_links: []
@@ -35,7 +35,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Ami Chen Mills-Naim | Author Teacher Coach Consultant</h1><p>Ami Chen Mills-Naim is a global speaker, coach, trainer and author of State of Mind in the Classroom: Thought, Consciousness and the Essential Curriculum for Healthy Learning, and The Spark Inside: A Special Book for Youth.  With her late father, the social scientist Dr. Roger Mills, she co-founded the non-profit Center for Sustainable Change, and served as its Executive Director and Education Director for a decade. She has been an international speaker on innate wellness and resiliency, and a trainer of the “Three Principles” for more than 17 years, as well as a “trainer of trainers.”</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c70e0b73d5ffd08cc62563845731f77ba5dd55b6.jpg" /></article>
+<article style=""><h1>Ami Chen Mills-Naim | Author Teacher Coach Consultant</h1><p>Ami Chen Mills-Naim is a global speaker, coach, trainer and author of State of Mind in the Classroom: Thought, Consciousness and the Essential Curriculum for Healthy Learning, and The Spark Inside: A Special Book for Youth.  With her late father, the social scientist Dr. Roger Mills, she co-founded the non-profit Center for Sustainable Change, and served as its Executive Director and Education Director for a decade. She has been an international speaker on innate wellness and resiliency, and a trainer of the “Three Principles” for more than 17 years, as well as a “trainer of trainers.”</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/368f8f27f204bb583e8ae7d2912e9cf10199bd10.jpg" /></article>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8617be5-3672-43b3-92f5-e761ede285b0.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b717e72e-6923-4a57-b4e7-6b6419d3d5bd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/94ffaa339b6b689e6d730d170778847b32087004.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e52d5658a4c806309fdada35e54c4f72025288af.jpg)
