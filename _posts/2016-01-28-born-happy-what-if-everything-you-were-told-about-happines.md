@@ -16,20 +16,20 @@ keywords:
   - months
   - podcast
 description: 'The Born Happy gang of experts, best-selling authors, teachers and coaches know everything there is to know about how to find happiness.'
-datePublished: '2016-01-28T09:09:05.157Z'
-dateModified: '2016-01-28T09:08:33.140Z'
+datePublished: '2016-01-28T09:10:50.835Z'
+dateModified: '2016-01-28T09:10:46.841Z'
 author: []
 related: []
 app_links: []
 title: Born Happy - What if everything you were told about happiness is all wrong?
+sourcePath: _posts/2016-01-28-born-happy-what-if-everything-you-were-told-about-happines.md
+published: true
 authors: []
 publisher:
   name: Born Happy
   domain: www.bornhappy.co
   url: 'http://www.bornhappy.co'
   favicon: 'http://www.bornhappy.co/favicon.ico'
-sourcePath: _posts/2016-01-28-born-happy-what-if-everything-you-were-told-about-happines.md
-published: true
 url: born-happy-what-if-everything-you-were-told-about-happines/index.html
 _context: 'http://schema.org'
 _type: MediaObject
