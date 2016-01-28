@@ -17,7 +17,7 @@ keywords:
   - session
   - eclectic
 description: Hi my name is Janis Hough and my passion is to help my clients to make changes in their lives so that they can achieve their goals and dreams and live their lives fully connected to their truth. I use an eclectic mix of skills taken from the fields of modern human psychology to help you harness your full potential.
-datePublished: '2016-01-28T10:51:33.682Z'
+datePublished: '2016-01-28T10:51:33.685Z'
 dateModified: '2016-01-28T09:55:21.101Z'
 author: []
 related: []
